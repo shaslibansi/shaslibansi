@@ -1,10 +1,8 @@
-# Hi there, I'm shaslibansi 👋
-
-A passionate Full-Stack & Mobile Developer dedicated to crafting beautiful, high-performance web and mobile experiences.
+# Hi, I'm shaslibansi 👋
 
 ---
 
-### 🚀 My Tech Stack
+### My Tech Stack
 
 #### Systems & General Programming
 ![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -37,7 +35,6 @@ A passionate Full-Stack & Mobile Developer dedicated to crafting beautiful, high
 ### 📊 GitHub Stats & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaslibansi&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaslibansi&theme=dark&background=000000&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
@@ -45,10 +42,3 @@ A passionate Full-Stack & Mobile Developer dedicated to crafting beautiful, high
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaslibansi&theme=github&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="shaslibansi's Activity Graph" width="100%" />
 </p>
-
----
-
-### 🛠️ What I'm working on
-- 🔭 I’m currently building web apps with **Next.js** and cross-platform mobile apps using **Flutter**.
-- 💬 Ask me about UI design, responsive design, and state management.
-- 📫 How to reach me: **shaslibansi6@gmail.com**
