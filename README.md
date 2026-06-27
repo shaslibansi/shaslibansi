@@ -1,10 +1,10 @@
 # Hi there, I'm shaslibansi 👋
-
-A passionate Full-Stack & Mobile Developer dedicated to crafting beautiful, high-performance web and mobile experiences.
-
 ---
-
 ### 🚀 My Tech Stack
+
+#### Systems & General Programming
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### Web Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +22,6 @@ A passionate Full-Stack & Mobile Developer dedicated to crafting beautiful, high
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 ---
 
 ### 📊 GitHub Stats
