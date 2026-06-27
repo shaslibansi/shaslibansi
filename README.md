@@ -1,5 +1,9 @@
 # Hi there, I'm shaslibansi 👋
+
+A passionate Full-Stack & Mobile Developer dedicated to crafting beautiful, high-performance web and mobile experiences.
+
 ---
+
 ### 🚀 My Tech Stack
 
 #### Systems & General Programming
@@ -22,13 +26,19 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shaslibansi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaslibansi&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
+
+#### 🗓️ Contribution Heatmap
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaslibansi&theme=tokyonight&bg_color=00000000" alt="shaslibansi's Activity Graph" width="100%" />
 </p>
 
 ---
