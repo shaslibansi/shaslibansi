@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=000000&height=120&section=header&text=shaslibansi&fontSize=50&fontColor=ffffff" alt="shaslibansi banner" />
-</p>
-
-# Hi there, I'm shaslibansi 👋
-
-A passionate Full-Stack & Mobile Developer dedicated to crafting beautiful, high-performance web and mobile experiences.
-
+# Hi, I'm shaslibansi 👋
 ---
 
 ### 🚀 Tech Stack Grid
@@ -20,10 +13,9 @@ A passionate Full-Stack & Mobile Developer dedicated to crafting beautiful, high
 
 ---
 
-### 📊 GitHub Stats & Activity
+###  GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaslibansi&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaslibansi&theme=dark&background=000000&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
@@ -33,19 +25,3 @@ A passionate Full-Stack & Mobile Developer dedicated to crafting beautiful, high
 </p>
 
 ---
-
-### 🛠️ What I'm working on
-<details>
-  <summary><b>✨ Current Projects</b></summary>
-  <br>
-  
-  - 🔭 Building web applications with **Next.js** and cross-platform mobile environments using **Flutter**.
-  - 💬 Ask me about UI design, responsive layout engineering, and client-side state management.
-</details>
-
-<details>
-  <summary><b>📬 Get in Touch</b></summary>
-  <br>
-  
-  - 📧 Email: **shaslibansi6@gmail.com**
-</details>
