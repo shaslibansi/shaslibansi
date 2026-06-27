@@ -27,6 +27,11 @@ A passionate Full-Stack & Mobile Developer dedicated to crafting beautiful, high
 ![Flutter](https://img.shields.io/badge/Flutter-%23000000.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
 
+#### Databases & Backend Services
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%23000000.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23000000.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
 ---
 
 ### 📊 GitHub Stats & Activity
