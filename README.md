@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+shaslibansi;1st+Year+Student;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=shaslibansi&label=Profile+Views&color=58a6ff&style=flat-square&labelColor=0d1117" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shaslibansi?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117" alt="Followers" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
